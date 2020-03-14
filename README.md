@@ -23,6 +23,7 @@ Hopefully my future projects won't require as much help!
 
 
 #NYC Population Analysis 3/14/2020
+
 For my second project, I will be using the pandas library to analyze and create vizualizations for the nyc metro population area from 2000 - 2020. I used the Pandas and Python Quick Refernce Udemy course and the internet as a guide for this project.
 
 I found a csv file from the nyc website containing population data of each borough from 2020. I uploaded this csv file into python and displayed the table. Then, I used .insert() to add another column called "Population in 2020" and used census data from the nyc website to manually enter in each number by borough. I used .rename() to rename the "Population" column to "Population in 2020". Then, I used .insert() again to add my last column, "Population in 2010" and it's data into my table. I used the .apped() method to add a new row into my data set -> NYC Metro overall. I simpliy added all of the borough columns from each year to put in the data within the append method. 
