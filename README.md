@@ -20,3 +20,13 @@ easier to handle than when I was trying to write out the code using floater valu
 
 Despite seeking out help halfway through the project, I am happy that I was able to semi complete this project on my own.
 Hopefully my future projects won't require as much help!
+
+
+#NYC Population Analysis 3/14/2020
+For my second project, I will be using the pandas library to analyze and create vizualizations for the nyc metro population area from 2000 - 2020. I used the Pandas and Python Quick Refernce Udemy course and the internet as a guide for this project.
+
+I found a csv file from the nyc website containing population data of each borough from 2020. I uploaded this csv file into python and displayed the table. Then, I used .insert() to add another column called "Population in 2020" and used census data from the nyc website to manually enter in each number by borough. I used .rename() to rename the "Population" column to "Population in 2020". Then, I used .insert() again to add my last column, "Population in 2010" and it's data into my table. I used the .apped() method to add a new row into my data set -> NYC Metro overall. I simpliy added all of the borough columns from each year to put in the data within the append method. 
+
+With all of my data in the table, it's time for the visualization. I used .plot() to plot a simple line graph for all of my columns. I also used .plot.bar() to plot a bar graph, which I believe is a much better visual of the data. I also used .pivot_table to show a generic pivot table of my data that can be used and showed in an excel file.
+
+In the future, I hope to get a better understanding of .plot() method and it's keyword arguements. I also would like to figure out a way to get future trends of data using the data I already have. I am looking to take two more courses on udemy regarding python for data science.
