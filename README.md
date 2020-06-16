@@ -2,7 +2,7 @@
 Hi everyone! This is where I will be posting personal projects for me in order to get better at Python. 
 I will be working on as much projects as I can with as little help as possible!
 
-#Change Return Program 1/30/2020
+# Change Return Program 1/30/2020
 
 For my first personal project, I created a change return program that asks you the cost of the item, 
 the amount of money given and then calcuates the difference!(Amount of change needed). I was able to solve about half of this
@@ -22,7 +22,7 @@ Despite seeking out help halfway through the project, I am happy that I was able
 Hopefully my future projects won't require as much help!
 
 
-#NYC Population Analysis 3/14/2020
+# NYC Population Analysis 3/14/2020
 
 For my second project, I will be using the pandas library to analyze and create vizualizations for the nyc metro population area from 2000 - 2020. I used the Pandas and Python Quick Refernce Udemy course and the internet as a guide for this project.
 
@@ -31,3 +31,11 @@ I found a csv file from the nyc website containing population data of each borou
 With all of my data in the table, it's time for the visualization. I used .plot() to plot a simple line graph for all of my columns. I also used .plot.bar() to plot a bar graph, which I believe is a much better visual of the data. I also used .pivot_table to show a generic pivot table of my data that can be used and showed in an excel file.
 
 In the future, I hope to get a better understanding of .plot() method and it's keyword arguements. I also would like to figure out a way to get future trends of data using the data I already have. I am looking to take two more courses on udemy regarding python for data science.
+
+# Clone Name Generator 6/16/20
+
+For my third project, I used python to create a clone birth name generator from the star wars series! I'm a huge star wars fan so this project definitely took my interest. I started off using numpy random number generator to show a number between 99 - 8000. Then I combined the Clone_Name_Generator with a 'ready for duty' string.
+
+Another way I created a clone name generator was by taking the Clone_Name_Generator variable and placing it in a def function, followed by a for loop to print out the clone's birth name.
+
+In the future, I would like to create the other classes of clones ( such as the Clone Commandos, ARC troopers, etc) . I also would like to create a list of different clone birth names using the generator. It would be interesting if I could find a way to show the nicknames of certain clones throughout the series (For example , Captian Rex's birth name is actually CT-7567 while Commander Cody's birth name was CC-2224).
