@@ -42,3 +42,11 @@ In the future, I would like to create the other classes of clones ( such as the 
 
 ## Update 8/11/2020
 I decided to work on my Python Classes and Objects skills and created a class set along with this project. I used three main clones throughout the Star Wars Prequels: Rex, Cody, and Fives. I catergorized each clone by offical birth name, nickname, and what army division they were in. I also added in a "clone counter" to show how many clones I listed.
+
+# Corona Virus Word Cloud via Wikipedia import 6/16/21
+
+https://pypi.org/project/wikipedia/
+https://www.datacamp.com/community/tutorials/wordcloud-python
+
+
+
